@@ -167,7 +167,7 @@ Contact Us
                                                         </div>
                                                         <div class="get-insurance-four__call-content">
                                                             <p>Mail us</p>
-                                                            <h5>info@broadpeakintl.com</h5>
+                                                            <h5>info@broadpeak-intl.com</h5>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -192,7 +192,7 @@ Contact Us
                                                         </div>
                                                         <div class="get-insurance-four__call-content">
                                                             <p>Mail us</p>
-                                                            <h5>info@broadpeakintl.com</h5>
+                                                            <h5>info@broadpeak-intl.com</h5>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -217,7 +217,7 @@ Contact Us
                                                         </div>
                                                         <div class="get-insurance-four__call-content">
                                                             <p>Mail us</p>
-                                                            <h5>info@broadpeakintl.com</h5>
+                                                            <h5>info@broadpeak-intl.com</h5>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -242,7 +242,7 @@ Contact Us
                                                         </div>
                                                         <div class="get-insurance-four__call-content">
                                                             <p>Mail us</p>
-                                                            <h5>info@broadpeakintl.com</h5>
+                                                            <h5>info@broadpeak-intl.com</h5>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -267,7 +267,7 @@ Contact Us
                                                         </div>
                                                         <div class="get-insurance-four__call-content">
                                                             <p>Mail us</p>
-                                                            <h5>info@broadpeakintl.com</h5>
+                                                            <h5>info@broadpeak-intl.com</h5>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -292,7 +292,7 @@ Contact Us
                                                         </div>
                                                         <div class="get-insurance-four__call-content">
                                                             <p>Mail us</p>
-                                                            <h5>info@broadpeakintl.com</h5>
+                                                            <h5>info@broadpeak-intl.com</h5>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -317,7 +317,7 @@ Contact Us
                                                         </div>
                                                         <div class="get-insurance-four__call-content">
                                                             <p>Mail us</p>
-                                                            <h5>info@broadpeakintl.com</h5>
+                                                            <h5>info@broadpeak-intl.com</h5>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -342,7 +342,7 @@ Contact Us
                                                         </div>
                                                         <div class="get-insurance-four__call-content">
                                                             <p>Mail us</p>
-                                                            <h5>info@broadpeakintl.com</h5>
+                                                            <h5>info@broadpeak-intl.com</h5>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -367,7 +367,7 @@ Contact Us
                                                         </div>
                                                         <div class="get-insurance-four__call-content">
                                                             <p>Mail us</p>
-                                                            <h5>info@broadpeakintl.com</h5>
+                                                            <h5>info@broadpeak-intl.com</h5>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -392,7 +392,7 @@ Contact Us
                                                         </div>
                                                         <div class="get-insurance-four__call-content">
                                                             <p>Mail us</p>
-                                                            <h5>info@broadpeakintl.com</h5>
+                                                            <h5>info@broadpeak-intl.com</h5>
                                                         </div>
                                                     </div>
                                                 </div>
