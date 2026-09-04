@@ -162,15 +162,15 @@ Contact Us
                                         <div class="tab active-tab" id="head-office">
                                             <div class="get-insurance-four__main-content">
                                                 <div class="get-insurance-four__main-content-left">
-                                                    {{-- <div class="get-insurance-four__call">
+                                                    <div class="get-insurance-four__call">
                                                         <div class="get-insurance-four__call-icon">
                                                             <i class="fas fa-map-marker-alt"></i>
                                                         </div>
                                                         <div class="get-insurance-four__call-content">
-                                                            <p>Head Office</p>
-                                                            <h5>5th Floor, 167 - 169 Great Portland St, London W1W 5PF, United Kingdom</h5>
+                                                            <p>Visit us</p>
+                                                            <h5>Office No 606, Single Business Tower Business Bay Dubai</h5>
                                                         </div>
-                                                    </div> --}}
+                                                    </div>
                                                     <div class="get-insurance-four__call">
                                                         <div class="get-insurance-four__call-icon">
                                                             <i class="fas fa-envelope"></i>
@@ -292,7 +292,7 @@ Contact Us
                                                             <i class="fas fa-map-marker-alt"></i>
                                                         </div>
                                                         <div class="get-insurance-four__call-content">
-                                                            <p>Afghanistan</p>
+                                                            <p>Visit us</p>
                                                             <h5>3rd Street, Ansari Square, Rahmat Tower, Shahr-e-Naw, Kabul Afghanistan</h5>
                                                         </div>
                                                     </div>
@@ -317,7 +317,7 @@ Contact Us
                                                             <i class="fas fa-map-marker-alt"></i>
                                                         </div>
                                                         <div class="get-insurance-four__call-content">
-                                                            <p>Singapore</p>
+                                                            <p>Visit us</p>
                                                             <h5>68 CIRCULAR ROAD, #02-01, SINGAPORE 049422</h5>
                                                         </div>
                                                     </div>
@@ -342,7 +342,7 @@ Contact Us
                                                             <i class="fas fa-map-marker-alt"></i>
                                                         </div>
                                                         <div class="get-insurance-four__call-content">
-                                                            <p>Bangladesh</p>
+                                                            <p>Visit us</p>
                                                             <h5>1001, 10th Floor, Aftab Tower, 196/A, Kemal Ataturk Avenue, Dhaka 1212, Bangladesh</h5>
                                                         </div>
                                                     </div> --}}
@@ -367,7 +367,7 @@ Contact Us
                                                             <i class="fas fa-map-marker-alt"></i>
                                                         </div>
                                                         <div class="get-insurance-four__call-content">
-                                                            <p>Srilanka</p>
+                                                            <p>Visit us</p>
                                                             <h5>No. 110, 1st Floor, Weliweriya Road, Nawala, Sri Lanka</h5>
                                                         </div>
                                                     </div> --}}
@@ -392,7 +392,7 @@ Contact Us
                                                             <i class="fas fa-map-marker-alt"></i>
                                                         </div>
                                                         <div class="get-insurance-four__call-content">
-                                                            <p>Nepal</p>
+                                                            <p>Visit us</p>
                                                             <h5>216/1, 2nd Floor, Jorpati, Kathmandu, Nepal</h5>
                                                         </div>
                                                     </div> --}}
@@ -417,7 +417,7 @@ Contact Us
                                                             <i class="fas fa-map-marker-alt"></i>
                                                         </div>
                                                         <div class="get-insurance-four__call-content">
-                                                            <p>Bhutan</p>
+                                                            <p>Visit us</p>
                                                             <h5>Tashichho Dzong, Thimphu, Bhutan</h5>
                                                         </div>
                                                     </div> --}}

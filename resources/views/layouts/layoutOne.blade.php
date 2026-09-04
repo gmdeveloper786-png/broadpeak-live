@@ -224,7 +224,7 @@
                     </div>
                     <div class="content">
                       <p>Visit us</p>
-                      <h5>5th Floor, 167 - 169 Great Portland St, London W1W 5PF, UK</h5>
+                      <h5>Office No 606, Single Business Tower Business Bay Dubai</h5>
                     </div>
                   </li>
                   <li>
