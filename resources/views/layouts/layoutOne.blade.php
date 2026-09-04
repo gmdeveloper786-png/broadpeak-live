@@ -183,7 +183,7 @@
                   <p class="footer-widget__about-text">
                     Broadpeak-Intl delivers advanced networking, security, and power solutions across the Gulf and
                     Africa. Headquartered in
-                    London, we are a UK-based IT distribution company committed to providing innovative, reliable, and
+                    UAE, we are an IT distribution company committed to providing innovative, reliable, and
                     scalable solutions.
                     Our focus on quality, innovation, and customer service positions us as a trusted partner in building
                     resilient,
