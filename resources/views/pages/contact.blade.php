@@ -44,50 +44,60 @@ Contact Us
                             <div class="row">
                                 <div class="col-xl-6 wow fadeInUp" data-wow-delay="100ms">
                                     <ul class="tab-buttons clearfix list-unstyled">
-                                        {{-- <li data-tab="#head-office" class="tab-btn active-btn">
+                                        <li data-tab="#head-office" class="tab-btn active-btn">
                                             <div class="content-box">
                                                 <div class="icon-box">
-                                                    <img src="assets/images/country/united-kingdom.svg" alt="Head Office">
+                                                    <img src="assets/images/country/uae.svg" alt="Head Office" width="55" height="55">
                                                 </div>
                                                 <div class="text-box">
                                                     <p>Head Office</p>
                                                 </div>
                                             </div>
-                                        </li> --}}
-                                        <li data-tab="#oman" class="tab-btn active-btn">
+                                        </li>
+                                        <li data-tab="#oman" class="tab-btn">
                                             <div class="content-box">
                                                 <div class="icon-box">
-                                                    <img src="assets/images/country/oman.svg" alt="Oman">
+                                                    <img src="assets/images/country/oman.svg" alt="Oman" width="55" height="55">
                                                 </div>
                                                 <div class="text-box">
                                                     <p>Oman</p>
                                                 </div>
                                             </div>
                                         </li>
-                                        {{-- <li data-tab="#ethiopia" class="tab-btn">
+                                        <li data-tab="#myanmar" class="tab-btn">
                                             <div class="content-box">
                                                 <div class="icon-box">
-                                                    <img src="assets/images/country/ethiopia.svg" alt="Ethiopia">
+                                                    <img src="assets/images/country/myanmar.svg" alt="Myanmar" width="55" height="55">
                                                 </div>
                                                 <div class="text-box">
-                                                    <p>Ethiopia</p>
+                                                    <p>Myanmar</p>
                                                 </div>
                                             </div>
-                                        </li> --}}
-                                        {{-- <li data-tab="#kenya" class="tab-btn">
+                                        </li>
+                                        <li data-tab="#cambodia" class="tab-btn">
                                             <div class="content-box">
                                                 <div class="icon-box">
-                                                    <img src="assets/images/country/kenya.svg" alt="Kenya">
+                                                    <img src="assets/images/country/cambodia.svg" alt="Cambodia" width="55" height="55">
                                                 </div>
                                                 <div class="text-box">
-                                                    <p>Kenya</p>
+                                                    <p>Cambodia</p>
                                                 </div>
                                             </div>
-                                        </li> --}}
+                                        </li>
+                                        <li data-tab="#laos" class="tab-btn">
+                                            <div class="content-box">
+                                                <div class="icon-box">
+                                                    <img src="assets/images/country/laos.svg" alt="Laos" width="55" height="55">
+                                                </div>
+                                                <div class="text-box">
+                                                    <p>Laos</p>
+                                                </div>
+                                            </div>
+                                        </li>
                                         <li data-tab="#afghanistan" class="tab-btn">
                                             <div class="content-box">
                                                 <div class="icon-box">
-                                                    <img src="assets/images/country/afghanistan.svg" alt="Afghanistan">
+                                                    <img src="assets/images/country/afghanistan.svg" alt="Afghanistan" width="55" height="55">
                                                 </div>
                                                 <div class="text-box">
                                                     <p>Afghanistan</p>
@@ -149,10 +159,10 @@ Contact Us
                                 <div class="col-xl-6 wow fadeInUp" data-wow-delay="180ms">
                                     <div class="tabs-content">
                                         <!--tab-->
-                                        {{-- <div class="tab active-tab" id="head-office">
+                                        <div class="tab active-tab" id="head-office">
                                             <div class="get-insurance-four__main-content">
                                                 <div class="get-insurance-four__main-content-left">
-                                                    <div class="get-insurance-four__call">
+                                                    {{-- <div class="get-insurance-four__call">
                                                         <div class="get-insurance-four__call-icon">
                                                             <i class="fas fa-map-marker-alt"></i>
                                                         </div>
@@ -160,7 +170,7 @@ Contact Us
                                                             <p>Head Office</p>
                                                             <h5>5th Floor, 167 - 169 Great Portland St, London W1W 5PF, United Kingdom</h5>
                                                         </div>
-                                                    </div>
+                                                    </div> --}}
                                                     <div class="get-insurance-four__call">
                                                         <div class="get-insurance-four__call-icon">
                                                             <i class="fas fa-envelope"></i>
@@ -172,9 +182,34 @@ Contact Us
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div> --}}
+                                        </div>
                                         <!--tab-->
-                                        <div class="tab active-tab" id="oman">
+                                        <div class="tab" id="myanmar">
+                                            <div class="get-insurance-four__main-content">
+                                                <div class="get-insurance-four__main-content-left">
+                                                    {{-- <div class="get-insurance-four__call">
+                                                        <div class="get-insurance-four__call-icon">
+                                                            <i class="fas fa-map-marker-alt"></i>
+                                                        </div>
+                                                        <div class="get-insurance-four__call-content">
+                                                            <p>Myanmar</p>
+                                                            <h5>Al Harm, Barka 320, Oman</h5>
+                                                        </div>
+                                                    </div> --}}
+                                                    <div class="get-insurance-four__call">
+                                                        <div class="get-insurance-four__call-icon">
+                                                            <i class="fas fa-envelope"></i>
+                                                        </div>
+                                                        <div class="get-insurance-four__call-content">
+                                                            <p>Mail us</p>
+                                                            <h5>info@broadpeak-intl.com</h5>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!--tab-->
+                                        <div class="tab" id="oman">
                                             <div class="get-insurance-four__main-content">
                                                 <div class="get-insurance-four__main-content-left">
                                                     <div class="get-insurance-four__call">
@@ -199,18 +234,18 @@ Contact Us
                                             </div>
                                         </div>
                                         <!--tab-->
-                                        {{-- <div class="tab" id="ethiopia">
+                                        <div class="tab" id="cambodia">
                                             <div class="get-insurance-four__main-content">
                                                 <div class="get-insurance-four__main-content-left">
-                                                    <div class="get-insurance-four__call">
+                                                    {{-- <div class="get-insurance-four__call">
                                                         <div class="get-insurance-four__call-icon">
                                                             <i class="fas fa-map-marker-alt"></i>
                                                         </div>
                                                         <div class="get-insurance-four__call-content">
-                                                            <p>Ethiopia</p>
+                                                            <p>Cambodia</p>
                                                             <h5>AG, Grace plaza, Addis Ababa, Ethiopia</h5>
                                                         </div>
-                                                    </div>
+                                                    </div> --}}
                                                     <div class="get-insurance-four__call">
                                                         <div class="get-insurance-four__call-icon">
                                                             <i class="fas fa-envelope"></i>
@@ -222,20 +257,20 @@ Contact Us
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div> --}}
+                                        </div>
                                         <!--tab-->
-                                        {{-- <div class="tab" id="kenya">
+                                        <div class="tab" id="laos">
                                             <div class="get-insurance-four__main-content">
                                                 <div class="get-insurance-four__main-content-left">
-                                                    <div class="get-insurance-four__call">
+                                                    {{-- <div class="get-insurance-four__call">
                                                         <div class="get-insurance-four__call-icon">
                                                             <i class="fas fa-map-marker-alt"></i>
                                                         </div>
                                                         <div class="get-insurance-four__call-content">
-                                                            <p>Kenya</p>
+                                                            <p>Laos</p>
                                                             <h5>Crescent Business Centre, The Crescent, Nairobi, Kenya</h5>
                                                         </div>
-                                                    </div>
+                                                    </div> --}}
                                                     <div class="get-insurance-four__call">
                                                         <div class="get-insurance-four__call-icon">
                                                             <i class="fas fa-envelope"></i>
@@ -247,7 +282,7 @@ Contact Us
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div> --}}
+                                        </div>
                                         <!--tab-->
                                         <div class="tab" id="afghanistan">
                                             <div class="get-insurance-four__main-content">

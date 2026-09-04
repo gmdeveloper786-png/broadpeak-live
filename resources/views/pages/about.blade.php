@@ -41,12 +41,12 @@ About Us
                     <div class="col-xl-6">
                         <div class="about-one__right wow fadeInUp" data-wow-delay="200ms">
                             <div class="section-title text-left">
-                                <h2 class="section-title__title">Broadpeak is a UK-based IT distribution company</h2>
+                                <h2 class="section-title__title">Broadpeak- An IT Distribution Company</h2>
                             </div>
         
         
                             <p class="about-one__text-2">
-                                Broadpeak is a UK-based IT distribution company with its head office located in London. We are dedicated to transforming
+                                Broadpeak- An IT Distribution Company with its head office located in UAE. We are dedicated to transforming
                                 the technology landscape with innovative, reliable, and future-proof solutions. In the distribution arena, Broadpeak
                                 stands apart through its extensive experience, fueled by a highly skilled team of industry professionals. This strong
                                 foundation allows us to handle large-scale, high-value projects with ease, providing clients with comprehensive

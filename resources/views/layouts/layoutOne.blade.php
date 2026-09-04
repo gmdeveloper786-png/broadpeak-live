@@ -126,8 +126,9 @@
                           <li><a href="https://www.ceburu.com/" target="_blank">Ceburu</a></li>
                           <li><a href="https://www.h3c.com/en/" target="_blank">H3C</a></li>
                           <li><a href="https://zerowl.io/" target="_blank">Zerowl</a></li>
-                          <li><a href="https://www.lenovo.com/eg/en/" target="_blank">Lenovo</a></li>
-                          <li><a href="https://www.cisco.com/" target="_blank">Cisco</a></li>
+                          {{-- <li><a href="https://www.lenovo.com/eg/en/" target="_blank">Lenovo</a></li> --}}
+                          {{-- <li><a href="https://www.cisco.com/" target="_blank">Cisco</a></li> --}}
+                          <li><a href="https://www.vmware.com/" target="_blank">VMware</a></li>
                         </ul>
                       </li>
                       <li @class(['current' => request()->routeIs('careers')])>

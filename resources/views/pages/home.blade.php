@@ -188,16 +188,23 @@ Home
                                     <img src="{{ asset('assets/images/brand-vendors/Zerowl.png') }}" alt="Zerowl">
                                 </a>
                             </div><!-- /.swiper-slide -->
-                            <div class="swiper-slide">
+                            {{-- <div class="swiper-slide">
                                 <a href="https://www.lenovo.com/eg/en/" target="_blank">
                                     <img src="{{ asset('assets/images/brand-vendors/lenovo.png') }}" alt="Lenovo">
                                 </a>
-                            </div><!-- /.swiper-slide -->
-                            <div class="swiper-slide">
+                            </div> --}}
+                            <!-- /.swiper-slide -->
+                            {{-- <div class="swiper-slide">
                                 <a href="https://www.cisco.com/" target="_blank">
                                     <img src="{{ asset('assets/images/brand-vendors/cisco.svg') }}" alt="Cisco">
                                 </a>
-                            </div><!-- /.swiper-slide -->
+                            </div> --}}
+                            <div class="swiper-slide">
+                                <a href="https://www.vmware.com/" target="_blank">
+                                    <img src="{{ asset('assets/images/brand-vendors/vmware.png') }}" alt="VMware">
+                                </a>
+                            </div>
+                            <!-- /.swiper-slide -->
                         </div>
                     </div>
                 </div>
@@ -233,7 +240,7 @@ Home
 
 
                     <p class="about-one__text-2">
-                        Broadpeak is a UK-based IT distribution company, dedicated to transforming the technology
+                        Broadpeak- An IT distribution company, dedicated to transforming the technology
                         landscape with
                         innovative,
                         reliable, and future-proof solutions. In distribution arena, Broadpeak stands apart through its
