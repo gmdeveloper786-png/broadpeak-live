@@ -54,7 +54,7 @@ Contact Us
                                                 </div>
                                             </div>
                                         </li> --}}
-                                        <li data-tab="#oman" class="tab-btn">
+                                        <li data-tab="#oman" class="tab-btn active-btn">
                                             <div class="content-box">
                                                 <div class="icon-box">
                                                     <img src="assets/images/country/oman.svg" alt="Oman">
@@ -174,7 +174,7 @@ Contact Us
                                             </div>
                                         </div> --}}
                                         <!--tab-->
-                                        <div class="tab" id="oman">
+                                        <div class="tab active-tab" id="oman">
                                             <div class="get-insurance-four__main-content">
                                                 <div class="get-insurance-four__main-content-left">
                                                     <div class="get-insurance-four__call">
