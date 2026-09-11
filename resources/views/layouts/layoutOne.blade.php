@@ -4,13 +4,15 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>@yield('title') || Broadpeak-Intl</title>
+  <title>@yield('title') || Broadpeak International Equipment Trading
+  FZE</title>
   <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png">
   <link rel="manifest" href="assets/images/favicons/site.webmanifest">
-  <meta name="description" content="Broadpeak-Intl">
+  <meta name="description" content="Broadpeak International Equipment Trading
+  FZE">
 
   <!-- fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -177,11 +179,13 @@
               <div class="footer-widget-four__column footer-widget-four__about">
                 <div class="footer-widget-four__logo">
                   <a href="{{ route('home') }}"><img src="{{ asset('assets/images/footer-logo.svg') }}" width="100%" height="70"
-                      alt="Broadpeak-Intl"></a>
+                      alt="Broadpeak International Equipment Trading
+  FZE"></a>
                 </div>
                 <div class="footer-widget-four__about-text-box">
                   <p class="footer-widget__about-text">
-                    Broadpeak-Intl delivers advanced networking, security, and power solutions across the Gulf and
+                    Broadpeak International Equipment Trading
+  FZE delivers advanced networking, security, and power solutions across the Gulf and
                     Africa. Headquartered in
                     UAE, we are an IT distribution company committed to providing innovative, reliable, and
                     scalable solutions.
@@ -224,7 +228,9 @@
                     </div>
                     <div class="content">
                       <p>Visit us</p>
-                      <h5>Office No 606, Single Business Tower Business Bay Dubai</h5>
+                      <h5>Unit No. 117-03, BCW, First Floor, Jafza 
+                        View18, Jebel Ali Free Zone 
+                        Dubai, United Arab Emirates</h5>
                     </div>
                   </li>
                   <li>
@@ -246,7 +252,8 @@
             <div class="col-xl-12">
               <div class="site-footer-four__bottom-inner">
                 <p class="site-footer-four__bottom-text">
-                  Copyright © 2024 Broadpeak-Intl. All rights reserved.
+                  Copyright © 2024 Broadpeak International Equipment Trading
+  FZE. All rights reserved.
                 </p>
               </div>
             </div>
@@ -315,7 +322,8 @@
       <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
       <div class="logo-box">
-        <a href="{{ route('home') }}" aria-label="logo image"><img src="{{ asset('assets/images/footer-logo.svg') }}" alt=" Broadpeak-Intl"></a>
+        <a href="{{ route('home') }}" aria-label="logo image"><img src="{{ asset('assets/images/footer-logo.svg') }}" alt=" Broadpeak International Equipment Trading
+  FZE"></a>
       </div>
       <!-- /.logo-box -->
       <div class="mobile-nav__container"></div>

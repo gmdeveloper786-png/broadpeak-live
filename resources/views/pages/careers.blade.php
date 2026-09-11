@@ -27,7 +27,8 @@ Careers
 <section class="careers-intro">
   <div class="container">
     <div class="careers-intro__inner text-center wow fadeInUp" data-wow-delay="100ms">
-      <h2 class="careers-intro__title">Join the Broadpeak Family</h2>
+      <h2 class="careers-intro__title">Join the Broadpeak International Equipment Trading
+  FZE Family</h2>
       <p class="careers-intro__text">
         We provide a sustainable, nurturing, and growth-oriented environment so our people can expand their skills and
         grow into tomorrow’s leaders in IT distribution and technology solutions.

@@ -60,7 +60,8 @@ Storage Solutions
           </div>
           <h3 class="insurance-details__title-1">Storage Solutions</h3>
           <p class="insurance-details__text-4">
-            Broadpeak delivers cutting-edge storage solutions that cater to the ever-growing data needs of enterprises. Our
+            Broadpeak International Equipment Trading
+  FZE delivers cutting-edge storage solutions that cater to the ever-growing data needs of enterprises. Our
             portfolio spans across traditional and next-gen storage technologies, including high-capacity data centers, HCI
             (Hyper-Converged Infrastructure), and cloud-based storage platforms, ensuring data integrity, scalability, and fast
             retrieval.

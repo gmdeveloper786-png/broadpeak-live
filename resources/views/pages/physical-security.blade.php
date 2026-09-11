@@ -63,7 +63,8 @@ Physical Security
             In the ever-evolving digital landscape, where cybersecurity often takes the spotlight, it’s easy to overlook the crucial
             role of physical security.
             
-            In a world where security is paramount, Broadpeak offers advanced physical security solutions, including surveillance
+            In a world where security is paramount, Broadpeak International Equipment Trading
+  FZE offers advanced physical security solutions, including surveillance
             systems, access control, Door phones and integrated security management platforms. Our solutions are designed to
             safeguard critical infrastructure and business & residential assets, providing real-time monitoring and threat detection
             for enhanced peace of mind.

@@ -60,7 +60,8 @@ Infrastructure Solutions
           </div>
           <h3 class="insurance-details__title-1">Infrastructure Solutions</h3>
           <p class="insurance-details__text-4">
-           At Broadpeak, we deliver end-to-end passive infrastructure solutions that support modern enterprise needs. Our expertise
+           At Broadpeak International Equipment Trading
+  FZE, we deliver end-to-end passive infrastructure solutions that support modern enterprise needs. Our expertise
           includes designing and deploying resilient IT & Telecom frameworks, from data centers to cloud infrastructure, ensuring
           optimized performance, scalability, and security. With a deep understanding of enterprise architecture, we help
           businesses transform their operations to meet today’s dynamic market demands.

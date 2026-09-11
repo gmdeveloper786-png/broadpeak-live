@@ -32,7 +32,8 @@ About Us
                             <div class="wow slideInLeft" data-wow-delay="100ms" data-wow-duration="900ms">
                                 <div class="about-one__img-box" data-tilt>
                                     <div class="about-one__img about-one__img-1">
-                                        <img src="{{ asset('assets/images/about/aboutp1.jpg') }}" alt="Broadpeak-Intl">
+                                        <img src="{{ asset('assets/images/about/aboutp1.jpg') }}" alt="Broadpeak International Equipment Trading
+  FZE">
                                     </div>
                                 </div>
                             </div>
@@ -41,18 +42,21 @@ About Us
                     <div class="col-xl-6">
                         <div class="about-one__right wow fadeInUp" data-wow-delay="200ms">
                             <div class="section-title text-left">
-                                <h2 class="section-title__title">Broadpeak- An IT Distribution Company</h2>
+                                <h2 class="section-title__title">Broadpeak International Equipment Trading
+  FZE- An IT Distribution Company</h2>
                             </div>
         
         
                             <p class="about-one__text-2">
-                                Broadpeak- An IT Distribution Company with its head office located in UAE. We are dedicated to transforming
+                                Broadpeak International Equipment Trading
+  FZE- An IT Distribution Company with its head office located in UAE. We are dedicated to transforming
                                 the technology landscape with innovative, reliable, and future-proof solutions. In the distribution arena, Broadpeak
                                 stands apart through its extensive experience, fueled by a highly skilled team of industry professionals. This strong
                                 foundation allows us to handle large-scale, high-value projects with ease, providing clients with comprehensive
                                 technology solutions that align with their business needs.<br><br>
                                 
-                                Specializing in Gulf and African markets, Broadpeak ensures maximum breadth and coverage, delivering tailored solutions
+                                Specializing in Gulf and African markets, Broadpeak International Equipment Trading
+  FZE ensures maximum breadth and coverage, delivering tailored solutions
                                 that empower businesses of all sizes to thrive in a competitive marketplace. Our deep expertise spans critical IT
                                 infrastructure domains, including storage, hyper-converged infrastructure (HCI), networking, software-defined wide area
                                 networks (SD-WAN), cybersecurity, physical security, and cloud platforms. By offering these advanced solutions, we
@@ -110,7 +114,8 @@ About Us
                             <div class="wow slideInLeft" data-wow-delay="100ms" data-wow-duration="900ms">
                                 <div class="about-one__img-box" data-tilt>
                                     <div class="about-one__img">
-                                        <img src="{{ asset('assets/images/about/About-us.jpg') }}" alt="Broadpeak-Intl">
+                                        <img src="{{ asset('assets/images/about/About-us.jpg') }}" alt="Broadpeak International Equipment Trading
+  FZE">
                                     </div>
                                 </div>
                             </div>
@@ -126,7 +131,8 @@ About Us
                             <p class="about-one__text-2">
                                 Our customer-centric philosophy places us at the forefront of the IT distribution space, allowing us to form
                                 long-lasting partnerships based on trust, reliability, and excellence. By continuously expanding our portfolio and
-                                keeping pace with the latest advancements in technology, Broadpeak ensures that our clients stay ahead of the curve,
+                                keeping pace with the latest advancements in technology, Broadpeak International Equipment Trading
+  FZE ensures that our clients stay ahead of the curve,
                                 ready to tackle future challenges and seize emerging opportunities.
                             </p>
                         </div>

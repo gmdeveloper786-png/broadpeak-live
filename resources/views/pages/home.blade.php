@@ -36,7 +36,8 @@ Home
                                     Stronger Networks, Safer
                                     Systems, and Sustainable
                                     Power</h2>
-                                <p class="main-slider__text">Broadpeak-Intl: Your Trusted Partner in Networking,
+                                <p class="main-slider__text">Broadpeak International Equipment Trading
+  FZE: Your Trusted Partner in Networking,
                                     Security, and Power
                                     Solutions.</p>
                                 <div class="main-slider__btn-box">
@@ -59,7 +60,8 @@ Home
                                 <h2 class="main-slider__title">Strengthening Networks
                                     Safeguarding Systems
                                     Empowering the Future</h2>
-                                <p class="main-slider__text">Broadpeak-Intl: Your Trusted Partner in Networking,
+                                <p class="main-slider__text">Broadpeak International Equipment Trading
+  FZE: Your Trusted Partner in Networking,
                                     Security, and Power
                                     Solutions.</p>
                                 <div class="main-slider__btn-box">
@@ -82,7 +84,8 @@ Home
                                 <h2 class="main-slider__title">Empowering Seamless<br> Connectivity
                                     Across <br> Diverse Regions</h2>
 
-                                <p class="main-slider__text">Broadpeak-Intl: Your Trusted Partner in Networking,
+                                <p class="main-slider__text">Broadpeak International Equipment Trading
+  FZE: Your Trusted Partner in Networking,
                                     Security, and Power
                                     Solutions.</p>
                                 <div class="main-slider__btn-box">
@@ -223,7 +226,8 @@ Home
                     <div class="wow slideInLeft" data-wow-delay="100ms" data-wow-duration="900ms">
                         <div class="about-one__img-box" data-tilt>
                             <div class="about-one__img">
-                                <img src="{{ asset('assets/images/about/About-us.jpg') }}" alt="Broadpeak-Intl">
+                                <img src="{{ asset('assets/images/about/About-us.jpg') }}" alt="Broadpeak International Equipment Trading
+  FZE">
                             </div>
                         </div>
                     </div>
@@ -240,10 +244,12 @@ Home
 
 
                     <p class="about-one__text-2">
-                        Broadpeak- An IT distribution company, dedicated to transforming the technology
+                        Broadpeak International Equipment Trading
+  FZE- An IT distribution company, dedicated to transforming the technology
                         landscape with
                         innovative,
-                        reliable, and future-proof solutions. In distribution arena, Broadpeak stands apart through its
+                        reliable, and future-proof solutions. In distribution arena, Broadpeak International Equipment Trading
+  FZE stands apart through its
                         extensive experience,
                         fueled by a highly experienced and skilled team of industry professionals. This strong
                         foundation allows
@@ -381,7 +387,8 @@ Home
                     <div class="services-two__top-left">
                         <div class="section-title text-center">
                             <div class="section-sub-title-box">
-                                <p class="section-sub-title">Why Choose Broadpeak-Intl?</p>
+                                <p class="section-sub-title">Why Choose Broadpeak International Equipment Trading
+  FZE?</p>
                             </div>
                             <h2 class="section-title__title">Excellence in Every Connection</h2>
                         </div>
