@@ -17205,11 +17205,21 @@ body.boxed-wrapper {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-shrink: 0;
   height: 54px;
   width: 54px;
   border-radius: 50%;
   background-color: var(--insur-white);
   z-index: 1;
+  overflow: hidden;
+}
+
+.get-insurance-four__main-tab-box .tab-buttons .tab-btn .icon-box img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
 }
 
 .get-insurance-four__main-tab-box .tab-buttons .tab-btn .icon-box span {
@@ -17301,30 +17311,46 @@ body.boxed-wrapper {
 .get-insurance-four__call {
   position: relative;
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   /* border-top: 1px solid #d7d7d7; */
+}
+
+.get-insurance-four__call + .get-insurance-four__call {
   padding-top: 40px;
   margin-top: 30px;
 }
 
 .get-insurance-four__call-icon {
   position: relative;
-  display: flex;
+  display: inline-flex;
   align-items: center;
   justify-content: center;
+  flex-shrink: 0;
   height: 54px;
   width: 54px;
+  min-height: 54px;
+  min-width: 54px;
   background-color: var(--insur-primary);
   border-radius: 50%;
   color: var(--insur-white);
-  font-size: 23px;
+  font-size: 22px;
+  line-height: 1;
   transition: all 500ms ease;
 }
 
 .get-insurance-four__call-icon i {
-  display: inline-flex;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1em;
+  height: 1em;
+  line-height: 1;
   transform: scale(1);
   transition: transform 500ms ease;
+}
+
+.get-insurance-four__call-icon i::before {
+  line-height: 1;
 }
 
 .get-insurance-four__call:hover .get-insurance-four__call-icon i {
@@ -17338,6 +17364,13 @@ body.boxed-wrapper {
 
 .get-insurance-four__call-content {
   margin-left: 20px;
+  padding-top: 4px;
+}
+
+.get-insurance-four__call-content h5 {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.5;
 }
 
 .get-insurance-four__call-content p {
@@ -36152,16 +36185,18 @@ ul li ul .is-new-menu>a>span::after {
   }
 
   .get-insurance-four__call {
-    margin-top: 0px;
+    display: flex;
+    align-items: flex-start;
   }
 
-  .get-insurance-four__call {
-    display: block;
+  .get-insurance-four__call + .get-insurance-four__call {
+    margin-top: 24px;
+    padding-top: 0;
   }
 
   .get-insurance-four__call-icon {
-    margin-bottom: 20px;
-    margin-left: 10px;
+    margin-bottom: 0;
+    margin-left: 0;
   }
 
   .insurance-page-one {
